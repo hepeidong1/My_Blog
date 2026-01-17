@@ -1,0 +1,14 @@
+id: paper2
+title: [A novel framework for 4D UAV swarm path planning]
+authors: Gang Hu, Peidong He, Mahmoud Abdel Salam, Guo Wei
+journal: Applied Mathematical Modelling, 150 (2026) 116383
+
+doi: 10.1016/j.apm.2025.116383
+
+abstract: UAVs (Unmanned Aerial Vehicles) have gained popularity in agricultural monitoring and military strikes due to their efficiency, flexibility, and affordability. However, achieving autonomic flight for UAVs still faces challenges. We make innovative adjustments in three aspects: environment modeling, path planning process, and path generator. Combine the advantages of the Global Path Search Algorithm and Local Path Search Algorithm, then design a large-scale UAV swarm path planning algorithm based on Plan Separation and Consolidation Method. We use many hybrid models to re-model the various environmental elements, which solves the weakness of the "combination explosion" and the inability to balance the various practical needs when extending the 2D grid method to 3D space. The Plan Separation and Consolidation Method separates the path planning problem of large-scale UAV swarms both in the time dimension and the dimension of the individuals of UAVs, and then consolidates the planning problems through temporary static obstacle regions, which utterly eliminates the "curse of dimensionality" in the planning process of large-scale UAV swarms, and provides a new opportunity for the autonomous control and parallelization of UAV swarms. We design a new local path evaluator and an enhanced Differentiated Creative Search algorithm to generate approximately optimal local paths quickly and accurately. We validate the effectiveness of the Plan Separation and Consolidation Method process and path generation method through a large number of repetitive experiments. Supplementary materials and related code can be downloaded at https://ogi.teracloud.jp/share/1202e180fd6a0c09.
+type: journal
+year: 2026/2
+pdf_url: /articles/article2/2.pdf
+code_url: /articles/article2/SiMlDCS_CODE.zip
+supplementary_url: /articles/article2/Supplementary Material (AMMOD-D-25-02519 R1).docx
+

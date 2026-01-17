@@ -1,0 +1,14 @@
+id: paper3
+title: [Distributed large-scale joint non-uniform UAV formation path planning based on global optimal guidance]
+authors: Gang Hu, Peidong He, Guo Wei
+journal: Applied Mathematical Modelling, 150 (2026) 116383
+
+doi: 10.1016/j.apm.2025.116239
+
+abstract: In the military field, the utilization of unmanned aerial vehicle (UAV) formations to carry out saturation attacks on enemy forces is the development trend of future war. Traditional path planning algorithms have the disadvantages of poor real-time performance, poor flexibility, poor scalability, and weak anti-jamming ability, which make these algorithms difficult to apply in the control of large-scale joint non-uniform military UAV formations. This paper proposes a pathplanning method for large-scale, low-cost military UAVs, it addresses three key aspects: system design, path-planning algorithms, and UAV safety guarantee. In system design, we implement a distributed formation control system. In this setup, individual agents can perform flight tasks independently using autonomous algorithms without needing to communicate with a central control center. In path planning algorithms, we quantify the four interactions of UAVs and combine them with the linear separation force strategy to construct a set of behavior-based formation coordination control methods through a reasonable interaction combination method. By adding guided paths, based on the integration of behavior-based formation coordination control methods, this paper retains the advantages of global path planning algorithms, such as high success rate, and local path planning algorithms, such as real-time performance. By designing a distributed formation control system with strong robustness and incorporating an escape mechanism, the system benefits from both passive and active fault-tolerant control strategies. This significantly enhances the overall stability of the system. Ablation experiments demonstrate that the components of the formation control system proposed in this paper are reasonable. Simulation experiments indicate that the distributed large-scale joint non-uniform UAV formation real-time path planning method is secure, stable, adaptable to various planning environments, and exhibits a fast convergence speed for the formation. Additionally, it is scalable, flexible, and suitable for application in large-scale clusters, among other benefits.
+type: journal
+year: 2025/12
+pdf_url: /articles/article3/3.pdf
+code_url: /articles/article3/UAV Formation Code.zip
+supplementary_url: #
+

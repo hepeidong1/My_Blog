@@ -1,0 +1,10 @@
+id: paper4
+title: [Conference Paper Title 2]
+authors: Author 1, Author 2, Author 3*
+journal: Conference Name 2, Location 2, Year 2023
+abstract: Abstract: [Paper Abstract Content for Conference 2]
+type: journal
+year: 2023
+pdf_url: #
+code_url: #
+supplementary_url: #
