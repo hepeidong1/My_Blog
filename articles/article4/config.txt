@@ -1,7 +1,7 @@
 id: paper4
 title: [HAURRT*smart: A rapidly exploring pseudo-random tree algorithm with low redundancy]
 authors: Peidong He, Gang Hu, Essam H. Houssein, Guo Wei
-journal: 123
+journal: Code_and_video_will_be_uploaded_shortly.
 abstract: Code_and_video_will_be_uploaded_shortly.
 type: journal
 year: 2026
