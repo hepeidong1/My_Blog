@@ -5,5 +5,5 @@ My research interests include optimization algorithm, path planning, and UAV swa
 email: 1250910008@stu.xaut.edu.cn
 wechat: 15650528028
 qq: 3140636926
-github: [hepeidong1 (贺培东)](https://github.com/hepeidong1)
-researchgate: [Peidong He](https://www.researchgate.net/profile/Peidong-He-5?ev=hdr_xprf)
+github: https://github.com/hepeidong1
+researchgate: https://www.researchgate.net/profile/Peidong-He-5?ev=hdr_xprf
